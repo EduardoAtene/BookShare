@@ -1,0 +1,83 @@
+﻿@model IEnumerable<BookShare.Web.Models.AnuncioViewModel>
+
+@{
+    ViewData["Title"] = "Anuncios";
+}
+
+<h1>Anuncios</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.IdAnuncio)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IdLivro)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.IdUsuario)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DataCriacaoAnuncio)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.StatusAnuncio)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.BairroAnuncio)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CidadeAnuncio)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.EstadoAnuncio)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DataCriacao)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdAnuncio)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdLivro)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IdUsuario)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DataCriacaoAnuncio)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.StatusAnuncio)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.BairroAnuncio)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CidadeAnuncio)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.EstadoAnuncio)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DataCriacao)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Details", "Details", new { /* id=item.PrimaryKey */ }) |
+                @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
