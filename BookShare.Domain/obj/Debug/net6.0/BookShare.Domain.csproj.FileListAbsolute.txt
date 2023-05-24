@@ -1,0 +1,12 @@
+C:\Users\eduar\Source\Repos\BookShare\BookShare.Domain\bin\Debug\net6.0\BookShare.Domain.deps.json
+C:\Users\eduar\Source\Repos\BookShare\BookShare.Domain\bin\Debug\net6.0\BookShare.Domain.dll
+C:\Users\eduar\Source\Repos\BookShare\BookShare.Domain\bin\Debug\net6.0\BookShare.Domain.pdb
+C:\Users\eduar\Source\Repos\BookShare\BookShare.Domain\obj\Debug\net6.0\BookShare.Domain.csproj.AssemblyReference.cache
+C:\Users\eduar\Source\Repos\BookShare\BookShare.Domain\obj\Debug\net6.0\BookShare.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eduar\Source\Repos\BookShare\BookShare.Domain\obj\Debug\net6.0\BookShare.Domain.AssemblyInfoInputs.cache
+C:\Users\eduar\Source\Repos\BookShare\BookShare.Domain\obj\Debug\net6.0\BookShare.Domain.AssemblyInfo.cs
+C:\Users\eduar\Source\Repos\BookShare\BookShare.Domain\obj\Debug\net6.0\BookShare.Domain.csproj.CoreCompileInputs.cache
+C:\Users\eduar\Source\Repos\BookShare\BookShare.Domain\obj\Debug\net6.0\BookShare.Domain.dll
+C:\Users\eduar\Source\Repos\BookShare\BookShare.Domain\obj\Debug\net6.0\refint\BookShare.Domain.dll
+C:\Users\eduar\Source\Repos\BookShare\BookShare.Domain\obj\Debug\net6.0\BookShare.Domain.pdb
+C:\Users\eduar\Source\Repos\BookShare\BookShare.Domain\obj\Debug\net6.0\ref\BookShare.Domain.dll

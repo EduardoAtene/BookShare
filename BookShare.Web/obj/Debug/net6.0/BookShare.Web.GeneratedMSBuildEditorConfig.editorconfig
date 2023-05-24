@@ -1,0 +1,345 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = BookShare.Web
+build_property.RootNamespace = BookShare.Web
+build_property.ProjectDir = C:\Users\eduar\source\repos\BookShare\BookShare.Web\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\eduar\source\repos\BookShare\BookShare.Web
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/Anuncio/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQW51bmNpb1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/App/FAQ.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwXEZBUS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/App/FAQ2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwXEZBUTIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/App/NewsGrid.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwXE5ld3NHcmlkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/App/Portfolio.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwXFBvcnRmb2xpby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/App/Profile.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwXFByb2ZpbGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/App/Timeline.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXBwXFRpbWVsaW5lLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/Auth/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxMb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/Auth/Login2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxMb2dpbjIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/Auth/Login3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxMb2dpbjMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/Auth/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxSZWdpc3Rlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/Auth/Register2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxSZWdpc3RlcjIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/Auth/Register3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXV0aFxSZWdpc3RlcjMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/Charts/C3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRzXEMzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/Charts/Chartist.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRzXENoYXJ0aXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/Charts/ChartJS.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRzXENoYXJ0SlMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/Charts/Dygraph.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRzXER5Z3JhcGguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/Charts/FlotChart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRzXEZsb3RDaGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/Charts/Morris.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRzXE1vcnJpcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/Charts/Plottable.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2hhcnRzXFBsb3R0YWJsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/Dashboard/Dashboard1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXERhc2hib2FyZDEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/Dashboard/Dashboard2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXERhc2hib2FyZDIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/Dashboard/Dashboard3.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGFzaGJvYXJkXERhc2hib2FyZDMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/Ecommerce/Invoice.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWNvbW1lcmNlXEludm9pY2UuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/Ecommerce/Orders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWNvbW1lcmNlXE9yZGVycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/Ecommerce/PricingTable.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWNvbW1lcmNlXFByaWNpbmdUYWJsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/Elements/Accordians.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWxlbWVudHNcQWNjb3JkaWFucy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/Elements/Badges.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWxlbWVudHNcQmFkZ2VzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/Elements/BootstrapTabs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWxlbWVudHNcQm9vdHN0cmFwVGFicy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/Elements/Buttons.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWxlbWVudHNcQnV0dG9ucy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/Elements/Cards.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWxlbWVudHNcQ2FyZHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/Elements/Dropdowns.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWxlbWVudHNcRHJvcGRvd25zLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/Elements/LineTabs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWxlbWVudHNcTGluZVRhYnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/Elements/Modal.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWxlbWVudHNcTW9kYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/Elements/Notifications.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWxlbWVudHNcTm90aWZpY2F0aW9ucy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/Elements/Pagination.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWxlbWVudHNcUGFnaW5hdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/Elements/ProgressBar.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWxlbWVudHNcUHJvZ3Jlc3NCYXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/Elements/Thumbnails.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWxlbWVudHNcVGh1bWJuYWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/Elements/Tooltips.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWxlbWVudHNcVG9vbHRpcHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/Elements/Typography.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRWxlbWVudHNcVHlwb2dyYXBoeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/Forms/Controls.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybXNcQ29udHJvbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/Forms/DualList.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybXNcRHVhbExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/Forms/Editors.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybXNcRWRpdG9ycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/Forms/FileUpload.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybXNcRmlsZVVwbG9hZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/Forms/Layouts.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybXNcTGF5b3V0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/Forms/Pickers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybXNcUGlja2Vycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/Forms/Selects.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybXNcU2VsZWN0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/Forms/Validation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybXNcVmFsaWRhdGlvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/Forms/Wizard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRm9ybXNcV2l6YXJkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/Icons/FontAwesomeIcon.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSWNvbnNcRm9udEF3ZXNvbWVJY29uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/Icons/MaterialIcon.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSWNvbnNcTWF0ZXJpYWxJY29uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/Icons/SimpleIcon.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSWNvbnNcU2ltcGxlSWNvbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/Livro/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTGl2cm9cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/Mailbox/Compose.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpbGJveFxDb21wb3NlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/Mailbox/Inbox.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpbGJveFxJbmJveC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/Mailbox/Template.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpbGJveFxUZW1wbGF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/Maintenance/LockScreen.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpbnRlbmFuY2VcTG9ja1NjcmVlbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/Maintenance/Page404.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpbnRlbmFuY2VcUGFnZTQwNC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/Maintenance/Page500.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpbnRlbmFuY2VcUGFnZTUwMC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/Maps/GoogleMap.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFwc1xHb29nbGVNYXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/Maps/VectorMap.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFwc1xWZWN0b3JNYXAuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/Miscellaneous/Carousel.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlzY2VsbGFuZW91c1xDYXJvdXNlbC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/Miscellaneous/Clipboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlzY2VsbGFuZW91c1xDbGlwYm9hcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/Miscellaneous/ContextMenu.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlzY2VsbGFuZW91c1xDb250ZXh0TWVudS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/Miscellaneous/Dragula.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlzY2VsbGFuZW91c1xEcmFndWxhLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/Miscellaneous/Loaders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlzY2VsbGFuZW91c1xMb2FkZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/Miscellaneous/Sliders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWlzY2VsbGFuZW91c1xTbGlkZXJzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/Shared/_Footer.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9Gb290ZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/Shared/_Header.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9IZWFkZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/Shared/_Navigation.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9OYXZpZ2F0aW9uLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/Shared/_Settings.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9TZXR0aW5ncy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/Tables/BasicTable.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVzXEJhc2ljVGFibGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/Tables/DataTable.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGFibGVzXERhdGFUYWJsZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/Usuario/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/Widgets/Widgets.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2lkZ2V0c1xXaWRnZXRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/eduar/source/repos/BookShare/BookShare.Web/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-l80rnki1vi
